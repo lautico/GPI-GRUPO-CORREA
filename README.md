@@ -1,9 +1,9 @@
-# GPI-GRUPO-CORREA
-LISTA DE INTEGRANTES Y ROLES: 
-- Correa Lautaro, rol en el equipo: Scrum Master.
-- Espinosa Matias Orlando, rol en el equipo: Product Owner.
-- Vázquez Marcos Natalio, rol en el equipo: Dev Team .
-- Cáceres Santiago Abel, rol en el equipo: Dev Team.
+| Nombre | Rol | Tarea asignada | Github |
+| :--- | :---: | ---: | ---: |
+| Lautaro Correa | Scrum Master | Creación y gestión del repositorio | @lautico
+| Matias Espinosa | Product Owner | Gestión de Google Drive y control de formato general | @asdasdsad 
+| Santiago Cáceres | Dev Team | Investigación y redacción | @santiagoabelcaceres |
+| Marcos Vázquez | Dev Team | Investigacion y redacción | |
 
 HERRAMIENTAS UTILIZADAS PARA REALIZAR LA ACTIVIDAD:
 -Para la investigación de los temas "Normas APA en 3 puntos, Tema de Innovación y Aplicación Práctica" se obtuvo la información de la inteligencia artificial, en este caso GEMINI. 
