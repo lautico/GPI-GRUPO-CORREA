@@ -6,7 +6,7 @@
 | Marcos Vázquez | Dev Team | Investigacion y redacción | @marcvazq083-blip |
 
 HERRAMIENTAS UTILIZADAS PARA REALIZAR LA ACTIVIDAD:
--Para la investigación de los temas "Normas APA en 3 puntos, Tema de Innovación y Aplicación Práctica" se obtuvo la información de la inteligencia artificial, en este caso GEMINI y Pagina de Ministerio de Justicia de la Nacion. 
-Luego se adjunto la información en formato diapositiva creadas en la pagina web de CANVAS y esas diapositiva se adujunto a un documento en DRIVE y se procedio obtener el enlace de la direccion del mismo.
+-Para la investigación de los temas "Normas APA en 3 puntos, Tema de Innovación y Aplicación Práctica" se obtuvo la información de la inteligencia artificial, en este caso GEMINI y la Página de Ministerio de Justicia de la Nacion. 
+Luego se adjuntó la información en formato diapositiva creadas en la página web de CANVAS y esas diapositiva se adujuntaron a un documento en DRIVE y se para luego obtener el enlace de la direccion del mismo.
 
 ENLACE A DRIVE: https://drive.google.com/drive/folders/13R5R_Dq24SWw7T-faahrEU7kvl-fzXNA?usp=drive_link
